@@ -12,7 +12,7 @@ import org.apache.flink.util.Collector;
 
 public class App 
 {
-	public static String path = "C:/Users/rdg3/OneDrive/Schweden/Uni/data driven support for cyber-physical systems/Project/testdata.txt";
+	public static String path = "testdata.txt";
     
 	public static class DataRecord{
 		private Timestamp date;
